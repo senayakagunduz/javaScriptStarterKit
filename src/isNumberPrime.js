@@ -7,7 +7,6 @@ function isNumberPrime(number){
             return false;
         }
     }
-    return true;
 }
 
 function primeNumbers(){
