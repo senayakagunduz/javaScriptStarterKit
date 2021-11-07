@@ -13,7 +13,10 @@ while(i<100){
     console.log("i değeri " + i)
     i+=2;
 }
+
 var sayilar=[32,5,1,100,-1,90]
+
+
 console.log("array elemanları...");
 for(var i=0;i<sayilar.length;i++){
     console.log("Eleman: "+sayilar[i]);
