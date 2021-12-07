@@ -1,4 +1,4 @@
-/*function addToCart(productName="Elma",quantity){
+function addToCart(productName="Elma",quantity){
     console.log("sepete eklendi: ürün: "+productName + "adet: " + quantity)
 }
 
@@ -46,7 +46,7 @@ function add2(...numbers) {
 add(20,30)
 add(20,30,40)
 add(20,30,40,50)
-*/
+
 
 
 function findPrime(...number) {
